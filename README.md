@@ -21,3 +21,4 @@ segundos. A buzina volta a soar caso a luminosidade permaneça em nível de aler
 
 Nossa visão: O projeto foi algo simples porém no meio teve um único problema que nos fez demorar bastante para resolver, isso é a conversão do valor do ldr que era printado na serial,
 sempre era um número diferente do que o LDR estava apresentando, porém depois conseguimos achar uma expressão que igualasse aproximadamente os número de 0 a 100k de lux.
+Projeto: https://wokwi.com/projects/410548393862044673
