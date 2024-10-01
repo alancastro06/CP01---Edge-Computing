@@ -2,6 +2,8 @@
 Integrantes: 
 Lucas Cortizo Carvalho
 Alan De Castro De Archangelo
+Henrique Celso
+Jonathan Henrique da Silva
 
 Descrição do Projeto:
 Vocês foram contratados pela Vinheria Agnello para desenvolver um sistema de monitoramento a
