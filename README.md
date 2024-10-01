@@ -20,5 +20,6 @@ em níveis de alerta e um LED Vermelho para indicar que tem algum problema.
 segundos. A buzina volta a soar caso a luminosidade permaneça em nível de alerta
 
 Nossa visão: O projeto foi algo simples porém no meio teve um único problema que nos fez demorar bastante para resolver, isso é a conversão do valor do ldr que era printado na serial,
-sempre era um número diferente do que o LDR estava apresentando, porém depois conseguimos achar uma expressão que igualasse aproximadamente os número de 0 a 100k de lux.
-Projeto: https://wokwi.com/projects/410548393862044673
+sempre era um número diferente do que o LDR estava apresentando, porém depois conseguimos achar uma expressão que igualasse aproximadamente os número de 0 a 100k de lux. Os valores de lux
+em relação a ativação dos leds foram ajustados conforme a serial, por exemplo 100 de lux era exibido na serial como 50048.88, por isso esse valor foi atribuido a ativação do led amarelo.
+Projeto e Simulação no wokwi: https://wokwi.com/projects/410548393862044673
